@@ -1,4 +1,4 @@
-# Oprain.github.io
+# Oprain‘s official website
 Oparin's official website based on Zola blog framework.
 
 [Website](https://oprain.github.io/)
